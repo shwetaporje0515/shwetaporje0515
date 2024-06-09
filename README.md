@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetaporje0515&label=Profile%20views&color=0e75b6&style=flat" alt="shwetaporje0515" /> </p>
 
-- 🌱 I’m currently learning **ReactJS , Bootstrap**
+- 🌱 I’m currently learning **ReactJS , Bootstrap and working on a project**
 
 - 📫 How to reach me **shwetaporje05@gmail.com**
 
